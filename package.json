@@ -1,7 +1,6 @@
 {
   "name": "@fricasokoni/react-helmet",
   "description": "A document head manager for React",
-  "version": "1.1.0",
   "main": "./lib/Helmet.js",
   "module": "./es/Helmet.js",
   "author": "NFL <engineers@nfl.com>",
@@ -12,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nfl/react-helmet"
+    "url": "https://github.com/sokoni-online/react-helmet"
   },
   "keywords": [
     "react-helmet",
