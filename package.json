@@ -1,6 +1,7 @@
 {
   "name": "@fricasokoni/react-helmet",
   "description": "A document head manager for React",
+  "version": "1.0.0",
   "main": "./lib/Helmet.js",
   "module": "./es/Helmet.js",
   "author": "NFL <engineers@nfl.com>",
