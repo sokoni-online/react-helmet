@@ -1,5 +1,5 @@
 {
-  "name": "react-helmet",
+  "name": "@fricasokoni/react-helmet",
   "description": "A document head manager for React",
   "version": "6.1.0",
   "main": "./lib/Helmet.js",
@@ -26,7 +26,9 @@
     "script",
     "base",
     "noscript",
-    "style"
+    "style",
+    "africasokoni",
+    "html"
   ],
   "peerDependencies": {
     "react": ">=16.3.0"
